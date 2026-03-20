@@ -110,7 +110,7 @@ git add .
 git commit -m "initial commit"
 
 # Add your GitHub repo as remote (create it on github.com first)
-git remote add origin https://github.com/dhruvjindal555/AI-Training-System.git
+git remote add origin https://github.com/your-username/AI-Training-System.git
 
 # Push
 git push -u origin master
