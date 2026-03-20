@@ -2,6 +2,8 @@
 
 An AI-powered tool that transforms Standard Operating Procedure documents into complete, personalised training modules using **Gemini 2.5 Flash Lite**.
 
+🔗 **Live Demo → [ai-training-system-iota.vercel.app](https://ai-training-system-iota.vercel.app/)**
+
 ---
 
 ## Features
