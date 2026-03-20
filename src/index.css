@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ::selection { background-color: #0d0d0b; color: #f2f0ea; }
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: #e8e5dc; }
+  ::-webkit-scrollbar-thumb { background: #d8d4c8; }
+  ::-webkit-scrollbar-thumb:hover { background: #9a9688; }
+}
